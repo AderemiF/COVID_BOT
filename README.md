@@ -3,7 +3,7 @@
 ---
 
 ## About 📝
-COVID_BOT is an interactive model that gives concise information about the COVID-19 virus. For the past year, life as we know it has been changed by the COVID-19 pandemic. Even though it's no longer a new thing, thousands are still curious about this disease. Due to it's severity and mortality rate, there is a lot of information about COVID-19 on the internet which can be overwhelming and this is where the COVID_BOT comes in. COVID_BOT contains relatively all the information about the COVID-19 virus but gives conscise answers when you type in your questions thereby saving you a lot of time and energy which would have been invested invested in sifting through tons of information available on the internet.
+COVID_BOT is an interactive model that gives concise information about the COVID-19 virus. For the past year, life as we know it has been changed by the COVID-19 pandemic. Even though it's no longer a new thing, thousands are still curious about this disease. Due to it's severity and mortality rate, there is a lot of information about COVID-19 on the internet which can be overwhelming and this is where the COVID_BOT comes in. COVID_BOT contains relatively all the information about the COVID-19 virus but gives conscise answers when you type in your questions, thereby saving you a lot of time and energy which would have been otherwise invested in sifting through tons of information available on the internet.
 
 ---
 
