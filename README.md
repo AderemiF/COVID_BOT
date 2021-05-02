@@ -16,7 +16,7 @@ COVID_BOT is an interactive model that gives concise information about COVID-19.
 
 __Language:__ Python 
 
-__Natural Language Processing:__ question-answering
+__Natural Language Processing:__ pretrained question-answering transformer
 
 __Web App:__ Flask, Heroku 
 
