@@ -7,7 +7,7 @@ COVID_BOT is an interactive model that gives concise information about COVID-19.
 
 ---
 
-## Models 🤖
+## Model 🤖
 - Transformer: question-answering
 
 ---
