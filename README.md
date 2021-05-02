@@ -16,37 +16,24 @@ COVID_BOT is an interactive model that gives concise information about COVID-19.
 
 __Language:__ Python 
 
-Natural Language Processing: OpenCV, imutils
+__Natural Language Processing:__ question-answering
 
 __Web App:__ Flask, Heroku 
 
-__Cloud:__ AWS, Google Cloud Platform
+---
 
+## Usage ⚒
+- COVID_BOT is easy to use and can be used on any device, just type in your questions in the provoded box.  
 
 ---
 
-## How to use ⚒
-- Mask Guard has been deployed as an easy-to-use and interactive web app  
-- You can find more details about Mask Guard and checkout the demo [here](https://maskguard.link/)
-
----
-
-## Further optimization 🚧
-For even better performance, we are adding some features and improving some of the existing features of Mask Guard. Here is our plan:
-
-![Road map](https://github.com/Tobias-GH-Schulz/mask-detector/blob/main/app/images/timeline.png "Road map") 
-
----
-
-## Authors 👨🏾‍💻 👩🏾‍💻
-- **Marcin Szleszynski** [Github](https://github.com/martinezpl) , [Linkedin](https://www.linkedin.com/in/marcin-szleszynski-560b021bb/)
+## Author 👩🏾‍💻
 - **Aderemi Fayoyiwa** [Github](https://github.com/AderemiF) , [Linkedin](https://www.linkedin.com/in/aderemi-fayoyiwa/)
-- **Tobias Schulz** [Github](https://github.com/Tobias-GH-Schulz) , [Linkedin](https://www.linkedin.com/in/tobias-schulz-77b09691/)
 
 ---
 
 ## Enquiries ❓
-For further clarification and inquiries, send a mail to **maskguard21@gmail.com** and we will get back to you at the shortest possible time.
+For further clarification and inquiries, shoot me a message via Linkedin link above ☝🏿 and I will get back to you at the shortest possible time.
 
 
->_**Improve safety at your business and keep it afloat with Mask Guard**_
+>_**Concise COVID-19 information at your fingertip**_
