@@ -16,9 +16,7 @@ COVID_BOT is an interactive model that gives concise information about COVID-19.
 
 __Language:__ Python 
 
-__DL Training:__ PyTorch
-
-__Computer Vision:__ OpenCV, imutils
+_Natural Language Processing:_ OpenCV, imutils
 
 __Web App:__ Flask, Heroku 
 
