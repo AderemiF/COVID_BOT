@@ -22,8 +22,8 @@ __Web App:__ Flask, Heroku
 
 ---
 
-## Data 🗂 🗄
-All COVID-19 information used are obtained from [here](https://en.wikipedia.org/wiki/COVID-19)
+## Data 🗂 
+All information about the COVID-19 virus used was obtained from [here](https://en.wikipedia.org/wiki/COVID-19)
 
 ---
 
