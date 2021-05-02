@@ -22,6 +22,11 @@ __Web App:__ Flask, Heroku
 
 ---
 
+## Data 🗂 🗄
+All COVID-19 information used are obtained from [here](https://en.wikipedia.org/wiki/COVID-19)
+
+---
+
 ## Usage ⚒
 - COVID_BOT is easy to use and can be used on any device, just type in your questions in the provided box.  
 
