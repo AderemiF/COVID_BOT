@@ -33,7 +33,7 @@ __Web App:__ Flask, Heroku
 ---
 
 ## Enquiries ❓
-For further clarification and inquiries, shoot me a message via Linkedin link above ☝🏿 and I will get back to you at the shortest possible time.
+For further clarification and enquiries, shoot me a message via Linkedin link above ☝🏿 and I will get back to you at the shortest possible time.
 
 
 >_**Concise COVID-19 information at your fingertip**_
