@@ -8,9 +8,7 @@ COVID_BOT is an interactive model that gives concise information about COVID-19.
 ---
 
 ## Models 🤖
-- Body Detecting CNN: pre-trained SSD,
-- Face Detecting CNN: pre-trained SSD,
-- Mask-No-Mask Classifier: MobileNetV2 w/ customized head,
+- Transformer: question-answering
 
 ---
 
@@ -22,7 +20,7 @@ __DL Training:__ PyTorch
 
 __Computer Vision:__ OpenCV, imutils
 
-__Web App:__ Streamlit, WebRTC 
+__Web App:__ Flask, Heroku 
 
 __Cloud:__ AWS, Google Cloud Platform
 
