@@ -14,7 +14,7 @@ def home():
 
 @app.route("/querry", methods=['POST'])
 def querry():
-    with open('/Users/aderemifayoyiwa/Downloads/Exercises/Hugging_face/templates/covid.txt') as f:
+    with open('static/covid.txt') as f:
         covid = f.readlines() 
 
     context = ' '.join(covid)
@@ -26,7 +26,7 @@ def querry():
     ans = f"Answer: '{result['answer']}'"
     #print(f"Answer: '{result['answer']}'") 
     print(question)
-    return ans
+    return render_template('answer.html', ans=ans)
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)
