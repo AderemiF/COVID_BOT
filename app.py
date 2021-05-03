@@ -28,5 +28,10 @@ def querry():
     print(question)
     return render_template('answer.html', ans=ans)
 
+
+@app.route("/healthz")
+def health_check():
+    return "ok"
+
 if __name__ == "__main__":
     app.run(debug=True)
