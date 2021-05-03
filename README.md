@@ -28,7 +28,8 @@ All information about the COVID-19 virus used was obtained from [here](https://e
 ---
 
 ## Usage ⚒
-- COVID-BOT is easy to use and can be used on any device, just type in your questions in the provided box.  
+- COVID-BOT is easy to use and can be used on any device. 
+- Go to the webapp [here](https://covid-bot-heroku.herokuapp.com/) and just type in your questions in the provided box. 
 
 ---
 
