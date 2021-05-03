@@ -4,9 +4,8 @@ FROM python:3.8.0
 # remember to expose the port your app'll be exposed on.
 EXPOSE 8080
 
-RUN apt-get update
-RUN apt-get install ffmpeg libsm6 libxext6  -y
-
+RUN apt-get install libsm6 libxext6  -y
+RUN apt-get update && apt-get install -y --no-install-recommends apt-utils 
 RUN pip install -U pip
 
 COPY requirements.txt app/requirements.txt
