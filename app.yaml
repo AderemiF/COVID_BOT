@@ -2,7 +2,12 @@ runtime: custom
 env: flex
 resources:
     cpu: 4
-    memory_gb: 4
+    memory_gb: 8
     disk_size_gb: 20
 readiness_check:
-    app_start_timeout_sec: 1800 
+  path: "/healthz"
+  check_interval_sec: 5
+  timeout_sec: 10
+  failure_threshold: 20
+  success_threshold: 2
+  app_start_timeout_sec: 600
