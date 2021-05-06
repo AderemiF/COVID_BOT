@@ -4,7 +4,8 @@ FROM python:3.8.0-slim-buster
 # remember to expose the port your app'll be exposed on.
 EXPOSE 5000
 
-COPY requirements.txt .
+COPY requirements.txt app/requirements.txt
+RUN pip install -r app/requirements.txt
 
 RUN apt-get update && \
     apt-get -y install --no-install-recommends build-essential && \
